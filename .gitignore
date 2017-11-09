@@ -6,3 +6,5 @@
 
 # ...even if they are in subdirectories
 !*/
+
+.DS_Store
