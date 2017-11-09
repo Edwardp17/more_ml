@@ -3,7 +3,7 @@
 
 # But not these files...
 !data_preprocessing.ipynb
-
+!Machine_Learning_A-Z
 
 # ...even if they are in subdirectories
 !*/
