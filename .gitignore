@@ -2,10 +2,8 @@
 *
 
 # But not these files...
-!.data_preprocessing.ipynb
-!.Machine_Learning_A-Z
-!.Part 1 - Data Preprocessing
-!.data_preprocessing.ipynb
+!data_preprocessing.ipynb
+
 
 # ...even if they are in subdirectories
 !*/
