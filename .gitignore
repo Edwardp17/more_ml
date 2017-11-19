@@ -3,6 +3,7 @@
 
 # But not these files...
 !data_preprocessing_section_1.ipynb
+!simple_linear_regression.ipynb
 !Machine_Learning_A-Z
 
 # ...even if they are in subdirectories
