@@ -10,6 +10,7 @@
 !regression_template.ipynb
 !svr.ipynb
 !decision_tree_reg.ipynb
+!random_forest_reg.ipynb
 
 
 # ...even if they are in subdirectories
