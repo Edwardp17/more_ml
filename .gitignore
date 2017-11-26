@@ -12,6 +12,7 @@
 !decision_tree_reg.ipynb
 !random_forest_reg.ipynb
 !logistic_regression.ipynb
+!classification_template.ipynb
 
 
 # ...even if they are in subdirectories
