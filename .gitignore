@@ -11,6 +11,7 @@
 !svr.ipynb
 !decision_tree_reg.ipynb
 !random_forest_reg.ipynb
+!logistic_regression.ipynb
 
 
 # ...even if they are in subdirectories
