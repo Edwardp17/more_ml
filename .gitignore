@@ -15,6 +15,7 @@
 !classification_template.ipynb
 !knn.ipynb
 !svm.ipynb
+!kernel_svm.ipynb
 
 
 # ...even if they are in subdirectories
