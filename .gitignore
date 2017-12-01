@@ -16,6 +16,7 @@
 !knn.ipynb
 !svm.ipynb
 !kernel_svm.ipynb
+!naive_bayes.ipynb
 
 
 # ...even if they are in subdirectories
