@@ -18,6 +18,7 @@
 !kernel_svm.ipynb
 !naive_bayes.ipynb
 !decision_tree_class.ipynb
+!random_forest_class.ipynb
 
 
 # ...even if they are in subdirectories
