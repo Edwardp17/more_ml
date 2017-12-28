@@ -21,7 +21,7 @@
 !random_forest_class.ipynb
 !kmeans.ipynb
 !hc.ipynb
-
+!apriori.ipynb
 
 # ...even if they are in subdirectories
 !*/
