@@ -23,6 +23,7 @@
 !hc.ipynb
 !apriori.ipynb
 !upper_confidence_bound.ipynb
+!thompson_sampling.ipynb
 
 # ...even if they are in subdirectories
 !*/
