@@ -24,6 +24,7 @@
 !apriori.ipynb
 !upper_confidence_bound.ipynb
 !thompson_sampling.ipynb
+!natural_language_processing.ipynb
 
 # ...even if they are in subdirectories
 !*/
