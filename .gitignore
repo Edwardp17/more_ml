@@ -26,6 +26,7 @@
 !thompson_sampling.ipynb
 !natural_language_processing.ipynb
 !ann.ipynb
+!cnn.ipynb
 
 # ...even if they are in subdirectories
 !*/
