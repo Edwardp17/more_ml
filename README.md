@@ -1,2 +1,3 @@
 # more_ml
-## me, practicing machine learning
+
+Machine learning practice in Python.
